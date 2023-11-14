@@ -1,4 +1,4 @@
-# Seattle Airbnb Deep Data Analysis
+# Seattle Airbnb Deep Data Analysis Project
 
 
 ### Table of Contents
